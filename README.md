@@ -1,4 +1,4 @@
-Tf2-Config
+TF2-Config
 ==========
 
 Chris config with my modification
