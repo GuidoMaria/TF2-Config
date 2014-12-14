@@ -1,7 +1,7 @@
 TF2-Configs
 ==========
 
-Chris config with my modification
+Chris configs with my modifications
 
 
 Launch Options
