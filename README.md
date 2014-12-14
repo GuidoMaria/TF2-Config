@@ -1,10 +1,10 @@
-TF2-Config
+TF2-Configs
 ==========
 
 Chris config with my modification
 
 
-Lauch Options
+Launch Options
 ==========
 
 -noforcemaccel -noforcemparms -noforcemspd -console -novid -nosync -windowed -noborder -noipx -nojoy -freq 144
