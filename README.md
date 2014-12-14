@@ -1,4 +1,5 @@
 Tf2-Config
 ==========
 
-cfg
+Chris Config with my personal modification.
+
