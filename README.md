@@ -13,4 +13,4 @@ Launch Options
 Extras
 ==========
 
-My Personal class-specif cofig
+My Personal class-specif cofigs
